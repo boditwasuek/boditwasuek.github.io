@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boditwasuek.github.io/sitemap.xml
